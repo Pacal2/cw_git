@@ -10,7 +10,7 @@
    <children>
       <HBox>
          <children>
-            <VBox prefHeight="300.0" prefWidth="200.0" spacing="10.0">
+            <VBox prefHeight="400.0" prefWidth="300.0" spacing="10.0">
                <children>
                   <Label text="Pizza ingredients">
                      <font>
