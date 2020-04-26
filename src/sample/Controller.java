@@ -56,7 +56,7 @@ public class Controller implements Initializable {
 
         //ChoiceBox
         choiceBoxLabel.setText("");
-        choiceBox.getItems().addAll("apples", "bananas", "oranges", "pears");
+        choiceBox.getItems().addAll("apples", "bananas", "oranges", "pears", "peaches");
 
         //ComboBox
         comboBox.getItems().addAll("The Maxx", "Dorohedoro", "Incal", "Blame", "Nausicaa");
